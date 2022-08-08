@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/movie-world/static/js/main.a316c8c2.js",
+    "index.html": "/movie-world/index.html",
+    "main.a316c8c2.js.map": "/movie-world/static/js/main.a316c8c2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a316c8c2.js"
+  ]
+}
