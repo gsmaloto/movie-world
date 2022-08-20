@@ -6,7 +6,10 @@ import Form from './components/Form'
 import Movie from "./components/Movie";
 import Loading from "./components/Loading";
 
-const API_URL = 'http://www.omdbapi.com/?apikey=65c4e5d0'
+const API_URL = 'https://moovieworld.netlify.app/http://www.omdbapi.com/?apikey=65c4e5d0'
+// https://moovieworld.netlify.app/
+
+//  https://cors-everywhere.herokuapp.com/http://myapi.com/v1/users
 
 
 function App() {
